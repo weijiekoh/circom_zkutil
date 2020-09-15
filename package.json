@@ -1,0 +1,15 @@
+{
+  "name": "circom_zkutil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "GPL-3",
+  "dependencies": {
+    "circom": "0.5.23",
+    "circomlib": "0.2.4"
+  }
+}
